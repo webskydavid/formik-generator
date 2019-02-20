@@ -1,0 +1,17 @@
+{
+  "name": "formik-generic-former",
+  "version": "1.0.0",
+  "description": "An example form built with Formik and React",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zKrK5YLDZ",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "3.9.2",
+    "enzyme": "3.9.0",
+    "formik": "1.5.1",
+    "lodash": "4.17.11",
+    "react": "16.8.2",
+    "react-dom": "16.8.2",
+    "yup": "latest"
+  }
+}
